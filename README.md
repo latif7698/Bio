@@ -12,4 +12,4 @@ I'm an Informatics Student at Pamulang University passionate about **Data Scienc
 * System Design for Scalable Apps
 
 **📫 Connect with Me**
-* [LinkedIn]([https://www.linkedin.com/in/asepabdullatip/](https://www.linkedin.com/in/asep-abdul-latip-b47a41270))
+* [LinkedIn]([https://www.linkedin.com/in/asepabdullatip/](https://www.linkedin.com/in/asep-abdul-latip-b47a41270])
