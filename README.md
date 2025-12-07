@@ -1,4 +1,4 @@
-### Hi there, I'm Asep! 👋
+### Hi there, I'm Latip! 👋
 
 I'm an Informatics Student at Pamulang University passionate about **Data Science** and **Machine Learning**. I bridge the gap between complex data models and user-friendly web interfaces.
 
