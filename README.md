@@ -1,6 +1,6 @@
 # Hi there, I'm Asep Abdul Latip! 👋
 
-I'm an Informatics Student specializing in **Machine Learning** & **Python**. I love building data-driven applications and solving real-world problems with code.
+I'm an Informatics Student at Pamulang University passionate about Data Science and Machine Learning. I bridge the gap between complex data models and user-friendly web interfaces.
 
 ---
 
