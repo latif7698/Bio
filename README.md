@@ -21,4 +21,4 @@ I'm an Informatics Student at Pamulang University passionate about Data Science 
 - System Design
 - Cloud Computing (GCP)
 
-[![](https://visitcount.itsvg.in/api?id=latif7698&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
