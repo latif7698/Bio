@@ -16,14 +16,6 @@ I'm an Informatics Student at Pamulang University passionate about Data Science 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-[![Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latif7698&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latif7698&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
-
 ### 🌱 Currently Learning
 - Deep Learning (Neural Networks)
 - System Design
