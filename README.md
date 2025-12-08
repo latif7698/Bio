@@ -1,4 +1,4 @@
-# Hi there, I'm Asep Abdul Latip! 👋
+<img width="828" height="517" alt="image" src="https://github.com/user-attachments/assets/b302acbb-0873-46dd-9bad-ed8f6d922940" /># Hi there, I'm Asep Abdul Latip! 👋
 
 I'm an Informatics Student at Pamulang University passionate about Data Science and Machine Learning. I bridge the gap between complex data models and user-friendly web interfaces.
 
@@ -19,11 +19,9 @@ I'm an Informatics Student at Pamulang University passionate about Data Science 
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=latif7698&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latif7698&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
+[![Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latif7698&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latif7698&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🌱 Currently Learning
