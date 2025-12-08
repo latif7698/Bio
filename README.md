@@ -1,4 +1,4 @@
-<img width="828" height="517" alt="image" src="https://github.com/user-attachments/assets/b302acbb-0873-46dd-9bad-ed8f6d922940" /># Hi there, I'm Asep Abdul Latip! 👋
+# Hi there, I'm Asep Abdul Latip! 👋
 
 I'm an Informatics Student at Pamulang University passionate about Data Science and Machine Learning. I bridge the gap between complex data models and user-friendly web interfaces.
 
@@ -15,6 +15,7 @@ I'm an Informatics Student at Pamulang University passionate about Data Science 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🌱 Currently Learning
 - Deep Learning (Neural Networks)
